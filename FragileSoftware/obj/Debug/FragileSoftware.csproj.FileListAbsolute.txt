@@ -64,3 +64,7 @@ C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\Fra
 C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\obj\Debug\FragileSoftware.csprojResolveAssemblyReference.cache
 C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\obj\Debug\FragileSoftware.dll
 C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\obj\Debug\FragileSoftware.pdb
+C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\bin\EntityFramework.dll
+C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\bin\EntityFramework.SqlServer.dll
+C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\bin\EntityFramework.xml
+C:\Users\Drew Demechko\Documents\Visual Studio 2015\Projects\FragileSoftware\FragileSoftwareSite\FragileSoftware\bin\EntityFramework.SqlServer.xml
